@@ -22,6 +22,6 @@ Unfortunately, I wasn't able to get the shortened URL to be printed on website s
 
 Server runs on localhost with port :8080.
 
-on localhost:8080/index is form page, where user submits their URL, it is then posted to the server, server then executes the **shorten** function and respond to the request to the terminal, where user can see long url, hashes and short url.
+on localhost:8080/index is a form page, where user submits their URL, it is then posted to the server, server then executes the **shorten** function and respond to the request to the terminal, where user can see long url, hashes and short url.
 
 Server also prints submited URL to the page.
